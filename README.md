@@ -10,6 +10,9 @@ This web application offers an interactive and user-friendly experience for mana
 **Profile Display**: Upon submission, the user's profile is displayed with their image, name, and email.
 
 **Update & Delete Functionality:**
+
 Update: Users can modify their profile details by clicking the Update button, which reopens the form for editing.
+
 Delete: The Delete button allows users to permanently remove their profile.
+
 This project demonstrates my ability to create responsive, CRUD-based web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). It highlights a seamless user experience, dynamic state management, and robust backend integration.
